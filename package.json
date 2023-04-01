@@ -1,0 +1,20 @@
+{
+  "name": "express_chat_server",
+  "version": "1.0.0",
+  "description": "placeholder chat api",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "chat",
+    "api"
+  ],
+  "author": "Korovin Dmitry <korovindn@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
